@@ -1,0 +1,14 @@
+/Users/levente/Desktop/pmp/7/PmP-7/bin/Debug/net8.0/PmP-7
+/Users/levente/Desktop/pmp/7/PmP-7/bin/Debug/net8.0/PmP-7.deps.json
+/Users/levente/Desktop/pmp/7/PmP-7/bin/Debug/net8.0/PmP-7.runtimeconfig.json
+/Users/levente/Desktop/pmp/7/PmP-7/bin/Debug/net8.0/PmP-7.dll
+/Users/levente/Desktop/pmp/7/PmP-7/bin/Debug/net8.0/PmP-7.pdb
+/Users/levente/Desktop/pmp/7/PmP-7/obj/Debug/net8.0/PmP-7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/levente/Desktop/pmp/7/PmP-7/obj/Debug/net8.0/PmP-7.AssemblyInfoInputs.cache
+/Users/levente/Desktop/pmp/7/PmP-7/obj/Debug/net8.0/PmP-7.AssemblyInfo.cs
+/Users/levente/Desktop/pmp/7/PmP-7/obj/Debug/net8.0/PmP-7.csproj.CoreCompileInputs.cache
+/Users/levente/Desktop/pmp/7/PmP-7/obj/Debug/net8.0/PmP-7.dll
+/Users/levente/Desktop/pmp/7/PmP-7/obj/Debug/net8.0/refint/PmP-7.dll
+/Users/levente/Desktop/pmp/7/PmP-7/obj/Debug/net8.0/PmP-7.pdb
+/Users/levente/Desktop/pmp/7/PmP-7/obj/Debug/net8.0/PmP-7.genruntimeconfig.cache
+/Users/levente/Desktop/pmp/7/PmP-7/obj/Debug/net8.0/ref/PmP-7.dll
